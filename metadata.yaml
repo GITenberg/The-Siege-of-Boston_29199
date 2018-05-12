@@ -13,6 +13,8 @@ creator:
 description: A facsimile of French's study of the siege of Boston which lasted nearly
   a year, from April 1775 to March 1776. In this volume French also studies the incidents
   which lead to the siege.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29199#The-Siege-of-Boston
 gutenberg_issued: '2009-06-21'
 gutenberg_type: Text
 identifiers:

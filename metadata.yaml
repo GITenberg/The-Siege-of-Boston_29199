@@ -1,0 +1,29 @@
+_repo: The-Siege-of-Boston_29199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: French, Allen
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '31596'
+    url: http://www.gutenberg.org/2009/agents/31596
+description: A facsimile of French's study of the siege of Boston which lasted nearly
+  a year, from April 1775 to March 1776. In this volume French also studies the incidents
+  which lead to the siege.
+gutenberg_issued: '2009-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29199'
+  lccn: '11001871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boston (Mass.) -- History -- Siege, 1775-1776'
+- !lcc 'E201'
+title: The Siege of Boston
+url: http://www.gutenberg.org/ebooks/29199
